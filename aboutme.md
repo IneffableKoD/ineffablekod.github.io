@@ -1,15 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who the heck is Ineff
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is IneffableKoD aka Ineff. I am a nerd and interested in the following topics:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- ₿itcoin
+- Blockchain technology
+- Bleeding edge and emerging technologies
+- All sorts of nerdy stuff
 
-What else do you need?
+I engage in all sorts of commuities around these topics. 
 
 ### my history
 

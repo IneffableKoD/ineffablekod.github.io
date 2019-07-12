@@ -8,4 +8,4 @@ comments: false
 
 #Why this Website?
 
-I originally created this domain to lead people to my [Telegram] (https://t.me/IneffableKoD) handle to avoid scammers from impersonating me. Now I use it for experiments and trying out new stuff.  
+I originally created this domain to lead people to my Telegram handle (https://t.me/IneffableKoD) to avoid scammers from impersonating me. Now I use it for experiments and trying out new stuff.  

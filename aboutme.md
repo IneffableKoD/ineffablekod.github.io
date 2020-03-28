@@ -19,4 +19,4 @@ I engage in all sorts of commuities around these topics. You will usually find m
 Word of warning: The crypto-world attracts lots of scammers. 
 I get impersonated alot (flattering? no, not when imitation leads to harm).
 
-Disclaimer: I don't take responsibility for any harm/damage that ensues form anything I post on this website. 
+Disclaimer: I don't take responsibility for any harm/damage that ensues form anything I post on this website. The content of this website is not necessarily connected to my work.

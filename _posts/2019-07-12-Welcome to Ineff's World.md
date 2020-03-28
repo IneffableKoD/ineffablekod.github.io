@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome
-subtitle: Random Geek Stuff
+subtitle: Hello world
 tags: [Blog Posts]
 comments: false
 ---

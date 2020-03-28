@@ -4,11 +4,19 @@ title: About me
 subtitle: Who the heck is Ineff
 ---
 
-My name is IneffableKoD aka Ineff. I am a nerd and interested in the following topics:
+My name is IneffableKoD aka Ineff. On this website I collect all my nerdy/geeky stuff. 
 
-- ₿itcoin
-- Blockchain technology
+Things I'm intersted in (list not conclusive):
+
+- Bitcoin
+- Blockchain technology 
 - Bleeding edge and emerging technologies
 - All sorts of nerdy stuff
+- Geek culture
 
-I engage in all sorts of commuities around these topics. 
+I engage in all sorts of commuities around these topics. You will usually find me either as IneffableKoD or Ineff. 
+
+Word of warning: The crypto-world attracts lots of scammers. 
+I get impersonated alot (flattering? no, not when imitation leads to harm).
+
+Disclaimer: I don't take responsibility for any harm/damage that ensues form anything I post on this website. 

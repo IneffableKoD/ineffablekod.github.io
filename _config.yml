@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Ineff ₿
+title: Ineff Home
 
 # Short description of your site
-description: Ineffs random stuff
+description: Ineff Misc Content
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -89,7 +89,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
 
 # How to display the link to the website in the footer

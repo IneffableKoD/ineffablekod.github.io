@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Welcome to Ineff's World
-subtitle: Why this website?
+title: Welcome
+subtitle: Random Geek Stuff
 tags: [Blog Posts]
 comments: false
 ---
 
-**Why this Website?**
+**Home of my geek stuff**
 
-I originally created this domain to lead people to my [**Telegram**](https://t.me/IneffableKoD) handle IneffableKoD to avoid scammers from impersonating me. Now I use it for experiments and trying out new stuff.  
+I originally created this domain to lead people to my [**Telegram**](https://t.me/IneffableKoD) handle IneffableKoD to avoid scammers from impersonating me. 
+
+Now it is home to my geek stuff, not necessarily connected to my work.  

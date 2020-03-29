@@ -20,3 +20,5 @@ Word of warning: The crypto-world attracts lots of scammers.
 I get impersonated alot (flattering? no, not when imitation leads to harm).
 
 Disclaimer: I don't take responsibility for any harm/damage that ensues form anything I post on this website. The content of this website is not necessarily connected to my work.
+
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a beer', '#000000', 'H2H21K2BH');kofiwidget2.draw();</script> 

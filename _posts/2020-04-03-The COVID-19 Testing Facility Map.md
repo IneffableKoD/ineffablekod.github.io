@@ -10,7 +10,7 @@ comments: false
 
 The current exceptional circumstances induced worldwide by SARS-CoV-2 and COVID-19 puts a hard test on society and the technology we have at hand. Data-driven insights can help a great deal in finding solutions to the many problems that arise from these circumstances (I try to avoid calling it a crisis). 
 
-I participated in a hackathon called #CodevsCOVID19 (Start | CodeVsCovid19) and wanted to train myself in using open-source mapping technology. But my journey led me to realize that there is almost no data to be mapped. Astonishingly, there is no map that displays the testing facilities for suspected COVID-19. Not only would the mapping of such data help those that want to get tested, but more importantly, it would help authorities and health officials plan their testing facilities. 
+I participated in a hackathon called [#CodevsCOVID19](https://www.codevscovid19.org/) and wanted to train myself in using open-source mapping technology. But my journey led me to realize that there is almost no data to be mapped. Astonishingly, there is no map that displays the testing facilities for suspected COVID-19. Not only would the mapping of such data help those that want to get tested, but more importantly, it would help authorities and health officials plan their testing facilities. 
 
 Maybe I am late to the party, but I still want to try to create this map. There are various reasons for that: 
 

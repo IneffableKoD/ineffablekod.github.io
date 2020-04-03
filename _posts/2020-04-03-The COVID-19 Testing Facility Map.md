@@ -29,5 +29,9 @@ Last but not least, I want to say _thank you_ to everyone that has been a help o
 
 Stay healthy, stay safe, and #StayHomeSaveLifes!
 
+[**LIINK TO THE MAP**](http://ineff.ch/cov19testmap/)
+
+[**LIINK TO THE REPOSITORY**](https://github.com/IneffableKoD/cov19testmap/)
+
 Regards,
 Ineff

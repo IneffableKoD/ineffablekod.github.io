@@ -33,5 +33,7 @@ Stay healthy, stay safe, and #StayHomeSaveLifes!
 
 [**LIINK TO THE REPOSITORY**](https://github.com/IneffableKoD/cov19testmap/)
 
+[**GRANT ON GITCOIN**](https://gitcoin.co/grants/700/covid-19-testing-facilities-map)
+
 Regards,
 Ineff

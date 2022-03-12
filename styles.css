@@ -25,6 +25,14 @@ body {
 }
 
 a {
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+    text-decoration: none;
+}
+
+.am {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
     color: #fff;
     text-decoration: none;
 }

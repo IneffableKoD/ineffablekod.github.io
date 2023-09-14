@@ -1,17 +1,17 @@
 @charset "UTF-8";
 
 body {
-    background-color: #000
+    background-color: #1b2025
 }
 
 #console {
     font-family: 'Courier New', Courier, monospace;
-    color: #00FF41; 
-    width: 60%;
+    color: #edc9af; 
+    width: 70%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 100px;
-    font-size: 3vmin;
+    font-size: 3.3vmin;
 }
 
 #blog {
@@ -26,7 +26,7 @@ body {
 
 a {
     font-family: 'Courier New', Courier, monospace;
-    color: #fff;
+    color: #edc9af;
     text-decoration: none;
 }
 
@@ -38,7 +38,18 @@ a {
 }
 
 #a {
-    color: #fff;
+    color: #edc9af;
+}
+
+#as {
+    color: #FF6E4A;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#al {
+    color: #FF6E4A;
+    font-size: x-small;
 }
 
 #c {
